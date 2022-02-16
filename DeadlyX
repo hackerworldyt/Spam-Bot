@@ -37,8 +37,8 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $RIZPATH
-    echo "  Starting.  RiZoeLXSpam "
-    echo "𝙍𝙞𝙕𝙤𝙚𝙇 𝙓 𝙎𝙥𝙖𝙢"
+    echo "  Starting.  Hw Spammers "
+    echo "Hw Spam Op"
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     python3 -m RiZoeLXSpam
