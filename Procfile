@@ -1,1 +1,1 @@
-worker: bash HackerWorld
+worker: bash DeadlyX
